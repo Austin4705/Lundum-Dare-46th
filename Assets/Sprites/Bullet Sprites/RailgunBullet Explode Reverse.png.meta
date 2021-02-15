@@ -1,0 +1,428 @@
+fileFormatVersion: 2
+guid: 4fc288c2a29774f209c2b16cae3253cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3617733980421984241
+    second: RailgunBullet Explode Reverse_0
+  - first:
+      213: -4165100619332477754
+    second: RailgunBullet Explode Reverse_1
+  - first:
+      213: 3026690521182401992
+    second: RailgunBullet Explode Reverse_2
+  - first:
+      213: 5925200133658504092
+    second: RailgunBullet Explode Reverse_3
+  - first:
+      213: -4220195925310448844
+    second: RailgunBullet Explode Reverse_4
+  - first:
+      213: 501058109041970139
+    second: RailgunBullet Explode Reverse_5
+  - first:
+      213: 7773126434915158371
+    second: RailgunBullet Explode Reverse_6
+  - first:
+      213: -707981960122429178
+    second: RailgunBullet Explode Reverse_7
+  - first:
+      213: 8389354484040490192
+    second: RailgunBullet Explode Reverse_8
+  - first:
+      213: 5435438542351085172
+    second: RailgunBullet Explode Reverse_9
+  - first:
+      213: 4544995197317425922
+    second: RailgunBullet Explode Reverse_10
+  - first:
+      213: -4718035352207210284
+    second: RailgunBullet Explode Reverse_11
+  - first:
+      213: 9165488782293542816
+    second: RailgunBullet Explode Reverse_12
+  - first:
+      213: -2146736386171760779
+    second: RailgunBullet Explode Reverse_13
+  - first:
+      213: -8229196262675552078
+    second: RailgunBullet Explode Reverse_14
+  - first:
+      213: -1837646196449109766
+    second: RailgunBullet Explode Reverse_15
+  - first:
+      213: -2602908437241496831
+    second: RailgunBullet Explode Reverse_16
+  - first:
+      213: 930239702918652595
+    second: RailgunBullet Explode Reverse_17
+  - first:
+      213: -4813259656506787829
+    second: RailgunBullet Explode Reverse_18
+  - first:
+      213: 4760920551015249608
+    second: RailgunBullet Explode Reverse_19
+  - first:
+      213: 6864668271855133448
+    second: RailgunBullet Explode Reverse_20
+  - first:
+      213: -3894015551362486420
+    second: RailgunBullet Explode Reverse_21
+  - first:
+      213: 4637943761341332242
+    second: RailgunBullet Explode Reverse_22
+  - first:
+      213: 8164765162546950281
+    second: RailgunBullet Explode Reverse_23
+  - first:
+      213: -6655476818219164001
+    second: RailgunBullet Explode Reverse_24
+  - first:
+      213: -1601499678933576100
+    second: RailgunBullet Explode Reverse_25
+  - first:
+      213: -7120662752296385709
+    second: RailgunBullet Explode Reverse_26
+  - first:
+      213: 115565964927300768
+    second: RailgunBullet Explode Reverse_27
+  - first:
+      213: -3013722678340000408
+    second: RailgunBullet Explode Reverse_28
+  - first:
+      213: -3242435666385837011
+    second: RailgunBullet Explode Reverse_29
+  - first:
+      213: -7896776597347277132
+    second: RailgunBullet Explode Reverse_30
+  - first:
+      213: 5478411751826697548
+    second: RailgunBullet Explode Reverse_31
+  - first:
+      213: 518185865974805883
+    second: RailgunBullet Explode Reverse_32
+  - first:
+      213: 5675199494529473165
+    second: RailgunBullet Explode Reverse_33
+  - first:
+      213: -8100273215240871061
+    second: RailgunBullet Explode Reverse_34
+  - first:
+      213: -3979626068274924308
+    second: RailgunBullet Explode Reverse_35
+  - first:
+      213: 2430280736392678340
+    second: RailgunBullet Explode Reverse_0
+  - first:
+      213: -95998749012169225
+    second: RailgunBullet Explode Reverse_1
+  - first:
+      213: 3945866758803682176
+    second: RailgunBullet Explode Reverse_2
+  - first:
+      213: 3195797498000025845
+    second: RailgunBullet Explode Reverse_3
+  - first:
+      213: -4122756011429571301
+    second: RailgunBullet Explode Reverse_4
+  - first:
+      213: 6187251586359522156
+    second: RailgunBullet Explode Reverse_5
+  - first:
+      213: 4471108963824511043
+    second: RailgunBullet Explode Reverse_6
+  - first:
+      213: -3735718070600599867
+    second: RailgunBullet Explode Reverse_7
+  - first:
+      213: -3328956366539260904
+    second: RailgunBullet Explode Reverse_8
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RailgunBullet Explode Reverse_0
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cb092d14771ab120800000000000000
+      internalID: 2430280736392678340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailgunBullet Explode Reverse_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd6f3a75a1faaef0800000000000000
+      internalID: -95998749012169225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailgunBullet Explode Reverse_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083f38939e882c630800000000000000
+      internalID: 3945866758803682176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailgunBullet Explode Reverse_3
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8af5274e0c95c20800000000000000
+      internalID: 3195797498000025845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailgunBullet Explode Reverse_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b15522b304709c6c0800000000000000
+      internalID: -4122756011429571301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailgunBullet Explode Reverse_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c637eec49888dd550800000000000000
+      internalID: 6187251586359522156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailgunBullet Explode Reverse_6
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34823d4e9e19c0e30800000000000000
+      internalID: 4471108963824511043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailgunBullet Explode Reverse_7
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c6f7dc1530182cc0800000000000000
+      internalID: -3735718070600599867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RailgunBullet Explode Reverse_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81cf6ab72db2dc1d0800000000000000
+      internalID: -3328956366539260904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

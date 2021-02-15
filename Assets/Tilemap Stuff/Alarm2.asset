@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Alarm2
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -8208369442066720269, guid: 3ad0309db88ca498ab30c228adfb302d, type: 3}
+  - {fileID: -6893833083179900610, guid: 3ad0309db88ca498ab30c228adfb302d, type: 3}
+  - {fileID: 2011965433164281623, guid: 3ad0309db88ca498ab30c228adfb302d, type: 3}
+  - {fileID: -9200272412674118292, guid: 3ad0309db88ca498ab30c228adfb302d, type: 3}
+  - {fileID: -3352476185395855962, guid: c6f35278c18d048cba02f33f3cad458c, type: 3}
+  - {fileID: -8799169065709376802, guid: c6f35278c18d048cba02f33f3cad458c, type: 3}
+  - {fileID: -3345594426180468771, guid: c6f35278c18d048cba02f33f3cad458c, type: 3}
+  - {fileID: -8548456188382160367, guid: 3ad0309db88ca498ab30c228adfb302d, type: 3}
+  - {fileID: 2987666939054991711, guid: 3ad0309db88ca498ab30c228adfb302d, type: 3}
+  m_MinSpeed: 24
+  m_MaxSpeed: 24
+  m_AnimationStartTime: 0
+  m_TileColliderType: 0
